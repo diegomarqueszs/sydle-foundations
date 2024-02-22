@@ -1,0 +1,30 @@
+## Como funciona
+Separa em 3 pilhares:
+ - Gestão por processos (BPM)
+	 - Aumento da produtividade
+	 - Tornar a organização ágil
+	 - Reduz erros
+	 - Garante conformidade e segurança
+	 - Reduz o micro gerenciamento
+	 - Exemplos:
+		 - Processo administrativo de viagem
+		 - processo de admissão de pessoal
+		 - processo de solicitação de compra 
+		 - processo para identificação de contratos inadimplentes
+ - Gestão de conteúdo organizacional (ECM)
+	 - Centralização
+	 - Migra documentos sem burocracia
+	 - Mitigar riscos 
+	 - Legislação e compliance
+	 - Exemplos:
+		 - Gestão de contratos
+		 - Gestão Eletrônica de Documentos (GED)
+		 - Gestão de clientes
+		 - Gestão dos colaboradores
+ - Gestão à vista (Analytics)
+	 - Gerar relatórios
+	 - Exemplos:
+		 - Analise de comportamento do consumidor
+		 - Identificar gargalos
+		 - Analisar performace
+		 - Controle de qualidade e diminuição do tempo de estocagem
