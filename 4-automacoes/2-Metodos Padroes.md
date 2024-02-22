@@ -20,7 +20,7 @@ Conjunto de operações comuns a todas as classes, permissões configuráveis.
 - Salvar
 - Obter metadata
 - Atualizar rascunho
-![[Pasted image 20240214140003 1.png]]
+![Alt text](<../img/Pasted image 20240214140003 1.png>)
 
 > Um método dinâmico é inserindo dentro do método obter controle de acesso
 
