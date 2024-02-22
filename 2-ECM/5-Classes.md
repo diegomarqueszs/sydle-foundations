@@ -1,4 +1,3 @@
-#ECM #sydle
 ## _Classes_
 Identificação: substantivo
 Nome: Texto

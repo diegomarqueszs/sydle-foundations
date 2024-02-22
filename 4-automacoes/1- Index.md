@@ -14,8 +14,5 @@
 - [2-Metodos Padroes](2-Metodos%20Padroes.md)
 - [3-Metodos Customizados](3-Metodos%20Customizados.md)
 - [4-API](4-API.md)
-	- [4.1-Exercício](4.1-Exercicios%20API.md)
-
-
 
 - Curso JavaScript: https://youtu.be/W3f6hiTLipc

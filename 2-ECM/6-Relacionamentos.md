@@ -1,4 +1,3 @@
-#ECM #sydle
 ## Relacionamentos
 ![Alt text](<../img/Pasted image 20240207092124.png>)
 _Referência Comum_: Existem de forma independentes, ou seja, não é necessário recriar campos semelhantes. 

@@ -1,4 +1,3 @@
-#ECM #sydle
 ## Paradigma
 Representação de padrão a ser seguido
 Molde(classes) x Registro(objetos)

@@ -1,11 +1,12 @@
+# Ponto de Melhorias
 Universidade SYDLE / Trilha Foundations Automação APIs / APIs Externas 
 5:30 (DESAFIO) 
 - API do _correio_ não está funcionando 
 - https://servicedesk.sydle.com/universidade-sydle+trilha-foundations+automacao+apis+apis-externas+62f24c362c3d962f510e401e
-- ![[Pasted image 20240216140009.png]]
+- ![Alt text](<img/Pasted image 20240216140009.png>)
 
 ## Erros 404
-![[Pasted image 20240221215649.png]]
+![Alt text](<img/Pasted image 20240221215649.png>)
 - Gestão de dados: o que é e como fazer da melhor forma?
 	- Pode ser encontrando em: Introdução - Como o SYDLE ONE funciona
 - 5 tipos de benefícios ao utilizar ECM 

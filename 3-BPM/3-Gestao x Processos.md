@@ -1,5 +1,4 @@
-#BPM #sydle 
-Gestão de processos x Gestão por processos
+## Gestão _de_ processos x Gestão _por_ processos
 > Qual a diferença? 
 
 _de processos_

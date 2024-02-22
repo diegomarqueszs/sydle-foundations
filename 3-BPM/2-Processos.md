@@ -1,5 +1,4 @@
-#bpm #sydle 
-O que é um processo? 
+## O que é um processo? 
 É uma agregação de atividades e comportamentos executados por humanos ou máquinas para alcançar um ou mais resultados.  As atividades são inter-relacionadas e governadas por regras de negócio.
 
 >Visão de processos

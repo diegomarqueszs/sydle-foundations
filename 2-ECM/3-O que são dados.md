@@ -1,4 +1,3 @@
-#ECM #sydle
 ## O que são dados? 
 São uma coleção de fatos: números, imagens, medidas, observações, vídeos, etc. 
 > *atributos*

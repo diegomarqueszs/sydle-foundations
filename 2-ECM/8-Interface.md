@@ -1,4 +1,3 @@
-#ECM #sydle
 ## Interface
 Também possuem atributos 
 > Possuem apenas 2 métodos padrões
